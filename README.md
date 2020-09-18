@@ -1,3 +1,3 @@
-# Course work from other math courses
+# Advanced Mathematics
 
 - Real Analysis
